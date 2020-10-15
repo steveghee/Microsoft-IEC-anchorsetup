@@ -1,0 +1,76 @@
+{
+  "attributes": {
+    "twx-widget": "",
+    "widget-id": "view-1",
+    "widget-name": "view-1",
+    "is-widget-container": "true",
+    "viewtype": "ar"
+  },
+  "children": [
+    {
+      "name": "twx-container-content",
+      "children": [
+        {
+          "attributes": {
+            "twx-widget": "",
+            "widget-id": "3DContainer-1",
+            "widget-name": "3D Container",
+            "is-widget-container": "true"
+          },
+          "name": "twx-dt-view",
+          "children": [
+            {
+              "name": "twx-container-content",
+              "children": [
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "asa",
+                    "tracking-indicator": "true",
+                    "widget-name": "asa",
+                    "width": "0.074",
+                    "x": "-0.0303",
+                    "y": "0.4529",
+                    "z": "1.2508",
+                    "rx": "0.00",
+                    "ry": "0.00",
+                    "rz": "0.00"
+                  },
+                  "name": "twx-dt-target"
+                },
+                {
+                  "attributes": {
+                    "twx-widget": "",
+                    "widget-id": "model-1",
+                    "widget-name": "model-1",
+                    "is-widget-container": "true",
+                    "src": "Uploaded/occluder.pvz",
+                    "scale": "100",
+                    "x": "0.0000749099999666214",
+                    "rx": "0.00",
+                    "ry": "0.00",
+                    "rz": "0.00",
+                    "opacity": "0.7"
+                  },
+                  "name": "twx-dt-model",
+                  "children": [
+                    {
+                      "name": "twx-container-content"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "twx-fragment-parameters"
+    },
+    {
+      "name": "twx-view-data"
+    }
+  ],
+  "name": "twx-view"
+}

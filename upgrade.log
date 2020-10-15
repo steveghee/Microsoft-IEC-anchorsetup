@@ -1,0 +1,97 @@
+[2019-12-14T17:42:40.308Z] debug: [twx-studio:upgrade:spatial-thingmark] Begin upgrade of project
+[2019-12-14T17:42:40.310Z] info: [twx-studio:upgrade:spatial-thingmark] Upgrading project
+[2019-12-14T17:42:40.321Z] debug: [twx-studio:upgrade:spatial-thingmark] Make sure there are not any stale files lying around
+[2019-12-14T17:42:40.325Z] debug: [twx-studio:upgrade:spatial-thingmark] Create .gitignore for project dir
+[2019-12-14T17:42:40.325Z] debug: [twx-studio:upgrade:spatial-thingmark] Copying /src/**/* to project, overwrite=false
+[2019-12-14T17:42:40.327Z] debug: [twx-studio:upgrade:spatial-thingmark] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2019-12-14T17:42:40.450Z] debug: [twx-studio:upgrade:spatial-thingmark] Copy of project files complete
+[2019-12-14T17:42:40.450Z] debug: [twx-studio:upgrade:spatial-thingmark] Updating version to 
+[2019-12-14T17:42:40.450Z] debug: [twx-studio:upgrade:spatial-thingmark] Copying project specific default resources.
+[2019-12-14T17:42:40.568Z] debug: [twx-studio:upgrade:spatial-thingmark] onupgrade sucessful, now build the project
+[2019-12-14T17:42:40.568Z] debug: [twx-studio:upgrade:spatial-thingmark] BEGIN buildApp
+[2019-12-14T17:42:40.568Z] debug: [twx-studio:upgrade:spatial-thingmark] write settings
+[2019-12-14T17:42:40.569Z] debug: [twx-studio:upgrade:spatial-thingmark] copy runtime extensions
+[2019-12-14T17:42:41.110Z] debug: [twx-studio:upgrade:spatial-thingmark] packageThemeSet
+[2019-12-14T17:42:42.378Z] debug: [twx-studio:upgrade:spatial-thingmark] onBuild
+[2019-12-14T17:42:42.379Z] info: [twx-studio:upgrade:spatial-thingmark] Building ves-ar-extension app:
+[2019-12-14T17:42:42.401Z] debug: [twx-studio:upgrade:spatial-thingmark] pathDir
+[2019-12-14T17:42:42.401Z] debug: [twx-studio:upgrade:spatial-thingmark] scaffoldDir
+[2019-12-14T17:42:42.401Z] debug: [twx-studio:upgrade:spatial-thingmark] copySrc
+[2019-12-14T17:42:42.704Z] debug: [twx-studio:upgrade:spatial-thingmark] buildApp
+[2019-12-14T17:42:42.952Z] debug: [twx-studio:upgrade:spatial-thingmark] END buildApp
+[2019-12-14T17:42:42.952Z] debug: [twx-studio:upgrade:spatial-thingmark] Build succeeded.
+[2020-01-03T15:35:49.608Z] debug: [twx-studio:upgrade:spatial-thingmark] Begin upgrade of project
+[2020-01-03T15:35:49.613Z] info: [twx-studio:upgrade:spatial-thingmark] Upgrading project
+[2020-01-03T15:35:49.661Z] debug: [twx-studio:upgrade:spatial-thingmark] Adding missing twx-app-event to Data.json: stopscan
+[2020-01-03T15:35:49.663Z] debug: [twx-studio:upgrade:spatial-thingmark] Make sure there are not any stale files lying around
+[2020-01-03T15:35:49.663Z] debug: [twx-studio:upgrade:spatial-thingmark] Removing 
+[2020-01-03T15:35:49.673Z] debug: [twx-studio:upgrade:spatial-thingmark] Removing 
+[2020-01-03T15:35:49.843Z] debug: [twx-studio:upgrade:spatial-thingmark] Removing 
+[2020-01-03T15:35:49.920Z] debug: [twx-studio:upgrade:spatial-thingmark] Removing 
+[2020-01-03T15:35:49.978Z] debug: [twx-studio:upgrade:spatial-thingmark] Removing 
+[2020-01-03T15:35:49.988Z] debug: [twx-studio:upgrade:spatial-thingmark] Copying /src/**/* to project, overwrite=false
+[2020-01-03T15:35:49.997Z] debug: [twx-studio:upgrade:spatial-thingmark] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2020-01-03T15:35:50.103Z] debug: [twx-studio:upgrade:spatial-thingmark] Copy of project files complete
+[2020-01-03T15:35:50.104Z] debug: [twx-studio:upgrade:spatial-thingmark] Updating version to 
+[2020-01-03T15:35:50.104Z] debug: [twx-studio:upgrade:spatial-thingmark] Copying project specific default resources.
+[2020-01-03T15:35:50.195Z] debug: [twx-studio:upgrade:spatial-thingmark] onupgrade sucessful, now build the project
+[2020-01-03T15:35:50.196Z] debug: [twx-studio:upgrade:spatial-thingmark] BEGIN buildApp
+[2020-01-03T15:35:50.196Z] debug: [twx-studio:upgrade:spatial-thingmark] write settings
+[2020-01-03T15:35:50.197Z] debug: [twx-studio:upgrade:spatial-thingmark] copy runtime extensions
+[2020-01-03T15:35:50.624Z] debug: [twx-studio:upgrade:spatial-thingmark] packageThemeSet
+[2020-01-03T15:35:51.811Z] debug: [twx-studio:upgrade:spatial-thingmark] onBuild
+[2020-01-03T15:35:51.811Z] info: [twx-studio:upgrade:spatial-thingmark] Building ves-ar-extension app:
+[2020-01-03T15:35:51.971Z] debug: [twx-studio:upgrade:spatial-thingmark] pathDir
+[2020-01-03T15:35:51.971Z] debug: [twx-studio:upgrade:spatial-thingmark] scaffoldDir
+[2020-01-03T15:35:51.971Z] debug: [twx-studio:upgrade:spatial-thingmark] copySrc
+[2020-01-03T15:35:52.272Z] debug: [twx-studio:upgrade:spatial-thingmark] buildApp
+[2020-01-03T15:35:52.621Z] debug: [twx-studio:upgrade:spatial-thingmark] END buildApp
+[2020-01-03T15:35:52.621Z] debug: [twx-studio:upgrade:spatial-thingmark] Build succeeded.
+[2020-10-12T19:05:54.355Z] debug: [twx-studio:upgrade:spatial-thingmark] Begin upgrade of project
+[2020-10-12T19:05:54.357Z] info: [twx-studio:upgrade:spatial-thingmark] Upgrading project
+[2020-10-12T19:05:54.367Z] debug: [twx-studio:upgrade:spatial-thingmark] Make sure there are not any stale files lying around
+[2020-10-12T19:05:54.367Z] debug: [twx-studio:upgrade:spatial-thingmark] Removing 
+[2020-10-12T19:05:54.381Z] debug: [twx-studio:upgrade:spatial-thingmark] Removing 
+[2020-10-12T19:05:54.456Z] debug: [twx-studio:upgrade:spatial-thingmark] Removing 
+[2020-10-12T19:05:54.467Z] debug: [twx-studio:upgrade:spatial-thingmark] Copying /src/**/* to project, overwrite=false
+[2020-10-12T19:05:54.470Z] debug: [twx-studio:upgrade:spatial-thingmark] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2020-10-12T19:05:54.583Z] debug: [twx-studio:upgrade:spatial-thingmark] Copy of project files complete
+[2020-10-12T19:05:54.583Z] debug: [twx-studio:upgrade:spatial-thingmark] Updating version to 
+[2020-10-12T19:05:54.583Z] debug: [twx-studio:upgrade:spatial-thingmark] Copying project specific default resources.
+[2020-10-12T19:05:54.700Z] debug: [twx-studio:upgrade:spatial-thingmark] onupgrade sucessful, now build the project
+[2020-10-12T19:05:54.700Z] debug: [twx-studio:upgrade:spatial-thingmark] BEGIN buildApp
+[2020-10-12T19:05:54.701Z] debug: [twx-studio:upgrade:spatial-thingmark] write settings
+[2020-10-12T19:05:54.702Z] debug: [twx-studio:upgrade:spatial-thingmark] copy runtime extensions
+[2020-10-12T19:05:55.158Z] debug: [twx-studio:upgrade:spatial-thingmark] packageThemeSet
+[2020-10-12T19:05:56.721Z] debug: [twx-studio:upgrade:spatial-thingmark] onBuild
+[2020-10-12T19:05:56.722Z] info: [twx-studio:upgrade:spatial-thingmark] Building ves-ar-extension app:
+[2020-10-12T19:05:56.755Z] debug: [twx-studio:upgrade:spatial-thingmark] pathDir
+[2020-10-12T19:05:56.756Z] debug: [twx-studio:upgrade:spatial-thingmark] scaffoldDir
+[2020-10-12T19:05:56.756Z] debug: [twx-studio:upgrade:spatial-thingmark] copySrc
+[2020-10-12T19:05:57.073Z] debug: [twx-studio:upgrade:spatial-thingmark] buildApp
+[2020-10-12T19:05:57.294Z] debug: [twx-studio:upgrade:spatial-thingmark] END buildApp
+[2020-10-12T19:05:57.294Z] debug: [twx-studio:upgrade:spatial-thingmark] Build succeeded.
+
+2020-10-12T19:07:01.114Z: Project "spatial-thingmark" saved as new project "IEC_spatial-thingmark_setup"[2020-10-12T19:08:45.203Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] Begin upgrade of project
+[2020-10-12T19:08:45.205Z] info: [twx-studio:upgrade:IEC_spatial-thingmark_setup] Upgrading project
+[2020-10-12T19:08:45.212Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] Make sure there are not any stale files lying around
+[2020-10-12T19:08:45.213Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] Removing 
+[2020-10-12T19:08:45.260Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] Create .gitignore for project dir
+[2020-10-12T19:08:45.261Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] Copying /src/**/* to project, overwrite=false
+[2020-10-12T19:08:45.269Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] Copying /**/* to project, skip /src/**/*,  overwrite=true
+[2020-10-12T19:08:45.428Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] Copy of project files complete
+[2020-10-12T19:08:45.429Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] Updating version to 
+[2020-10-12T19:08:45.429Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] Copying project specific default resources.
+[2020-10-12T19:08:45.547Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] onupgrade sucessful, now build the project
+[2020-10-12T19:08:45.548Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] BEGIN buildApp
+[2020-10-12T19:08:45.548Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] write settings
+[2020-10-12T19:08:45.549Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] copy runtime extensions
+[2020-10-12T19:08:46.192Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] packageThemeSet
+[2020-10-12T19:08:47.550Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] onBuild
+[2020-10-12T19:08:47.551Z] info: [twx-studio:upgrade:IEC_spatial-thingmark_setup] Building ves-ar-extension app:
+[2020-10-12T19:08:47.579Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] pathDir
+[2020-10-12T19:08:47.579Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] scaffoldDir
+[2020-10-12T19:08:47.579Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] copySrc
+[2020-10-12T19:08:48.135Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] buildApp
+[2020-10-12T19:08:48.376Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] END buildApp
+[2020-10-12T19:08:48.376Z] debug: [twx-studio:upgrade:IEC_spatial-thingmark_setup] Build succeeded.
